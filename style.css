@@ -27,11 +27,11 @@ body {
 
 .box {
   background-color: black;
-  width: 200px;
-  height: 100px;
+  width: 120px;
+  height: 170px;
   border: 1px solid white;
   color: white;
-  margin: 10px;
+  margin-left: 70px;
   font-size: 250%;
   padding: 10px;
   border-radius: 10px;
