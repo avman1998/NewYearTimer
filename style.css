@@ -13,7 +13,7 @@ body {
   /* background-image: url("https://wallpapercave.com/wp/wp1892792.jpg");
   background-repeat: no-repeat;
   background-size: cover; */
-  background-color: azure;
+  background-color: black;
 }
 
 .container {
@@ -29,7 +29,7 @@ body {
   background-color: black;
   width: 120px;
   height: 170px;
-  border: 1px solid white;
+  border: 1px solid orange;
   color: white;
   margin-left: 70px;
   font-size: 250%;
@@ -61,6 +61,6 @@ body {
 .newyearHead {
   margin-left: 20px;
   font-weight: bold;
-  color: black;
+  color: orange;
   font-size: 300%;
 }
