@@ -27,7 +27,7 @@ body {
 
 .box {
   background-color: black;
-  width: 250px;
+  width: 200px;
   height: 100px;
   border: 1px solid white;
   color: white;
@@ -62,5 +62,5 @@ body {
   margin-left: 20px;
   font-weight: bold;
   color: black;
-  font-size: 360%;
+  font-size: 300%;
 }
